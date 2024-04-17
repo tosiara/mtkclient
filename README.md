@@ -484,6 +484,7 @@ For dxcc, you need to use plstage instead of stage
 
 ```
 python mtk w crclist,sparsecrclist,preloader,logo,tee1,scp1,sspm_1,lk,tee2,scp2,sspm_2,lk2,odmdtbo,spmfw,md1img,vendor,system,cache,recovery,boot,cust,vbmeta,userdata crclist.txt,sparsecrclist.txt,preloader_cactus.bin,logo.bin,tee.img,scp.img,sspm.img,lk.img,tee.img,scp.img,sspm.img,lk.img,odmdtbo.img,spmfw.img,md1img.img,vendor.img,system.img,cache.img,recovery.img,boot.img,cust.img,vbmeta.img,userdata.img
+python mtk reset
 ```
 
 ---------------------------------------------------------------------
